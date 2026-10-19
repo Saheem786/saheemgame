@@ -1,0 +1,17 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+
+# Per-user editor state
+Config/*PerProjectUserSettings.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
